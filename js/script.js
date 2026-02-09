@@ -62,3 +62,4 @@ function filterJobs() {
 searchInput.addEventListener("input", filterJobs);
 locationFilter.addEventListener("change", filterJobs);
 typeFilter.addEventListener("change", filterJobs);
+
