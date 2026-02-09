@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Frontend Developer",
+    "company": "Acme Tech",
+    "location": "Pune",
+    "type": "Full-Time"
+  },
+  {
+    "title": "Backend Engineer",
+    "company": "CloudWorks",
+    "location": "Mumbai",
+    "type": "Full-Time"
+  },
+  {
+    "title": "UI/UX Intern",
+    "company": "DesignHub",
+    "location": "Remote",
+    "type": "Internship"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Insight Labs",
+    "location": "Pune",
+    "type": "Part-Time"
+  },
+  {
+    "title": "Mobile Developer",
+    "company": "Appify",
+    "location": "Mumbai",
+    "type": "Full-Time"
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "DeployNow",
+    "location": "Remote",
+    "type": "Full-Time"
+  }
+]
