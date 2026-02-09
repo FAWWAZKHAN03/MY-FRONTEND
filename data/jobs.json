@@ -34,5 +34,42 @@
     "company": "DeployNow",
     "location": "Remote",
     "type": "Full-Time"
+  },
+  {
+    "title": "React Developer",
+    "company": "TechVision",
+    "location": "Remote",
+    "type": "Full-Time"
+  },
+  {
+    "title": "QA Engineer",
+    "company": "TestPro",
+    "location": "Pune",
+    "type": "Full-Time"
+  },
+  {
+    "title": "Product Manager",
+    "company": "InnovateCo",
+    "location": "Mumbai",
+    "type": "Full-Time"
+  },
+  {
+    "title": "Java Developer",
+    "company": "CoreSoft",
+    "location": "Remote",
+    "type": "Full-Time"
+  },
+  {
+    "title": "Graphic Designer",
+    "company": "CreativeStudio",
+    "location": "Pune",
+    "type": "Part-Time"
+  },
+  {
+    "title": "Systems Administrator",
+    "company": "NetSecure",
+    "location": "Mumbai",
+    "type": "Full-Time"
   }
 ]
+
